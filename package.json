@@ -1,8 +1,8 @@
 {
-  "name": "@teasources/cli-backend-collect",
+  "name": "@teasources/cli-backend-rlswitch",
   "version": "0.0.1",
-  "description": "cli-backend-collect on frontend relbas",
-  "main": "cli-backend-collect.js",
+  "description": "cli-backend-rlswitch on frontend relbas",
+  "main": "cli-backend-rlswitch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,13 +17,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/teasources/cli-backend-collect.git"
+    "url": "https://github.com/teasources/cli-backend-rlswitch.git"
   },
   "author": "teasources",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/teasources/cli-backend-collect/issues"
+    "url": "https://github.com/teasources/cli-backend-rlswitch/issues"
   },
-  "homepage": "https://github.com/teasources/cli-backend-collect#readme",
+  "homepage": "https://github.com/teasources/cli-backend-rlswitch#readme",
   "dependencies": {}
 }
